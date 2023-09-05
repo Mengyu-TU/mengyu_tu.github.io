@@ -4,7 +4,8 @@
 
 I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins University. 
 
-## Education
+## [Education](education.md)
+
 
 - **Degree:** PhD in Neuroscience, Johns Hopkins University
   - **Major:** Computational/Systems Neuroscience
@@ -23,7 +24,7 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
   - **Year:** 2020
   - **Location:** Singapore
 
-## Research Projects
+## [Projects](projects.md)
 
 ### Project 1: [Confidence gates reinforcement]
 
