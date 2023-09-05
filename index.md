@@ -1,6 +1,4 @@
-# mengyu_tu.github.io
-
-# Serene Tu
+# Mengyu Serene Tu
 
 ## Background
 
@@ -54,7 +52,7 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 ## Contact
 
-- GitHub: Mengyu-TU(https://github.com/mengyu-tu)
+- GitHub: [Mengyu-TU](https://github.com/mengyu-tu)
 - LinkedIn: [Mengyu Serene Tu](www.linkedin.com/in/mengyu-tu)
 - Google Scholar: [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en))
 - Email: serenemy@outlook.com 
