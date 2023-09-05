@@ -12,7 +12,9 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 - **MSc in Artificial Intelligence, Johns Hopkins University, US** (May 2022 - Present)
 
-- **BSc in Physics, Nanyang Technological University, Singapore** 2020
+- **MA in Psychological and Brain Sciences, Johns Hopkins University, US** (May 2023)
+
+- **BSc in Physics, Nanyang Technological University, Singapore** (Jun 2020)
 
 ---
 
