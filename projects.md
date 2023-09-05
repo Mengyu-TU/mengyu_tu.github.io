@@ -1,6 +1,6 @@
 # Mengyu Serene Tu's projects
 
-# Machine learning projects 
+# Machine Learning Projects 
 
 ### Project 1: [Project Title]
 
