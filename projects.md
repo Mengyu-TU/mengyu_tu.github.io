@@ -1,6 +1,6 @@
 # Mengyu Serene Tu's projects
 
-# Research Projects
+# Machine learning projects 
 
 ### Project 1: [Project Title]
 
@@ -18,7 +18,7 @@ Provide a concise summary of the project, its goals, and its impact. Mention the
 - **Repository:** [Link to the GitHub repository]
 - **Demo/Website:**
 
-# Machine learning projects
+# Research Projects
 ### Project 1: [Project Title]
 
 - **Description:** Briefly describe the project and its significance.
