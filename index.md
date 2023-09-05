@@ -4,37 +4,33 @@
 
 ## Background
 
-Briefly introduce yourself and provide an overview of your background. This could include your professional interests, passions, and what drives you in your field.
+I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins University. 
 
 ## Education
 
-- **Degree:** PhD in Neuroscience
+- **Degree:** PhD in Neuroscience, Johns Hopkins University
   - **Major:** Computational/Systems Neuroscience
-  - **University:** Johns Hopkins University
   - **Year:** 2026
   - **Location:** Baltimore, US
 
-- **Degree:** MSc in Artificial Intelligence
+- **Degree:** MSc in Artificial Intelligence, Johns Hopkins University
   - **Major:** Artificial Intelligence
-  - **University:** Johns Hopkins University
   - **Year:** 2024
   - **Location:** Baltimore, US
 
-- **Degree:** MA in Psychology
+- **Degree:** MA in Psychology, Johns Hopkins University
   - **Major:** Psychology and Brain Sciences
-  - **University:** Johns Hopkins University
   - **Year:** 2023
   - **Location:** Baltimore, US
 
-- **Degree:** BSc in Physics
+- **Degree:** BSc in Physics, Nanyang Technological University
   - **Major:** Pure Physics
-  - **University:** Nanyang Technological University
   - **Year:** 2020
   - **Location:** Singapore
 
 ## Research Projects
 
-### Project 1: [Project Title]
+### Project 1: [Confidence gates reinforcement]
 
 - **Description:** Briefly describe the project and its significance.
 - **Technologies/Tools:** List the technologies or tools you used.
@@ -59,7 +55,8 @@ Briefly introduce yourself and provide an overview of your background. This coul
 ## Contact
 
 - GitHub: Mengyu-TU(https://github.com/mengyu-tu)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Mengyu Serene Tu](www.linkedin.com/in/mengyu-tu)
+- Google Scholar: [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en))
 - Email: serenemy@outlook.com 
 
 Feel free to reach out to me for collaborations, questions, or just to say hello!
