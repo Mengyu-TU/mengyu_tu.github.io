@@ -1,7 +1,4 @@
----
-layout: default
-title: Education
----
+# mengyu_tu.github.io
 
 # Education
 

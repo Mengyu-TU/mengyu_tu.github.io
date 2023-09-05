@@ -1,7 +1,4 @@
----
-layout: default
-title: Projects
----
+# mengyu_tu.github.io
 
 # Research Projects
 

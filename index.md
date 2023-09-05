@@ -1,8 +1,4 @@
 # mengyu_tu.github.io
----
-layout: default
-title: Serene Tu
----
 
 # Serene Tu
 
