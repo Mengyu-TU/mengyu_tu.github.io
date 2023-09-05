@@ -6,26 +6,15 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 ## [Education](education.md)
 
-- **PhD in Neuroscience, Johns Hopkins University**
-  - **Major:** Computational/Systems Neuroscience
-  - **Year:** 2026
-  - **Location:** Baltimore, US
+- **PhD in Computational/Systems Neuroscience, Johns Hopkins University, US**  2021 - Present
 
-- **MSc in Artificial Intelligence, Johns Hopkins University**
-  - **Year:** 2024
-  - **Location:** Baltimore, US
+- **MSc in Artificial Intelligence, Johns Hopkins University, US** 2022 - Present
 
-- **MA in Psychology, Johns Hopkins University**
-  - **Year:** 2023
-  - **Location:** Baltimore, US
-
-- **BSc in Physics, Nanyang Technological University**
-  - **Year:** 2020
-  - **Location:** Singapore
+- **BSc in Physics, Nanyang Technological University, Singapore** 2020
 
 ## [Projects](projects.md)
 
-### Project 1: [Confidence Gates Reinforcement]
+### Project 1: [Confidence Gates Reinforcement on Subsequent Decisions]
 
 - **Description:** Briefly describe the project and its significance.
 - **Technologies/Tools:** List the technologies or tools you used.
