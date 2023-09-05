@@ -16,16 +16,25 @@ Briefly introduce yourself and provide an overview of your background. This coul
   - **Major:** Computational/Systems Neuroscience
   - **University:** Johns Hopkins University
   - **Year:** 2026
+  - **Location:** Baltimore, US
 
 - **Degree:** MSc in Artificial Intelligence
   - **Major:** Artificial Intelligence
   - **University:** Johns Hopkins University
   - **Year:** 2024
+  - **Location:** Baltimore, US
 
 - **Degree:** MA in Psychology
   - **Major:** Psychology and Brain Sciences
   - **University:** Johns Hopkins University
   - **Year:** 2023
+  - **Location:** Baltimore, US
+
+- **Degree:** BSc in Physics
+  - **Major:** Pure Physics
+  - **University:** Nanyang Technological University
+  - **Year:** 2020
+  - **Location:** Singapore
 
 ## Research Projects
 
