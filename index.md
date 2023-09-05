@@ -6,20 +6,20 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 ## [Education](education.md)
 
-- **PhD in Neuroscience**
+- **PhD in Neuroscience, Johns Hopkins University**
   - **Major:** Computational/Systems Neuroscience
   - **Year:** 2026
   - **Location:** Baltimore, US
 
-- **MSc in Artificial Intelligence**
+- **MSc in Artificial Intelligence, Johns Hopkins University**
   - **Year:** 2024
   - **Location:** Baltimore, US
 
-- **MA in Psychology**
+- **MA in Psychology, Johns Hopkins University**
   - **Year:** 2023
   - **Location:** Baltimore, US
 
-- **BSc in Physics**
+- **BSc in Physics, Nanyang Technological University**
   - **Year:** 2020
   - **Location:** Singapore
 
