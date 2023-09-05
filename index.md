@@ -8,11 +8,11 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 ## [Education](education.md)
 
-- **PhD in Computational/Systems Neuroscience, Johns Hopkins University, US**  (Sep 2021 - Present)
+- **PhD in Computational/Systems Neuroscience, Johns Hopkins University**  (Sep 2021 - Present)
 
-- **MSc in Artificial Intelligence, Johns Hopkins University, US** (May 2022 - Present)
+- **MSc in Artificial Intelligence, Johns Hopkins University** (May 2022 - Present)
 
-- **MA in Psychological and Brain Sciences, Johns Hopkins University, US** (May 2023)
+- **MA in Psychological and Brain Sciences, Johns Hopkins University** (May 2023)
 
 - **BSc in Physics, Nanyang Technological University, Singapore** (Jun 2020)
 
