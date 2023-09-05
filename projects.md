@@ -1,4 +1,4 @@
-# mengyu_tu.github.io
+# Mengyu Serene Tu's projects
 
 # Research Projects
 
@@ -17,3 +17,11 @@ Provide a concise summary of the project, its goals, and its impact. Mention the
 - **Technologies/Tools:** List the technologies or tools you used.
 - **Repository:** [Link to the GitHub repository]
 - **Demo/Website:**
+
+# Machine learning projects
+### Project 1: [Project Title]
+
+- **Description:** Briefly describe the project and its significance.
+- **Technologies/Tools:** List the technologies or tools you used.
+- **Repository:** [Link to the GitHub repository]
+- **Demo/Website:** [Link to project demo or website]
