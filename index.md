@@ -2,31 +2,30 @@
 
 ## Background
 
-I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins University. 
+I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins University.
 
 ## [Education](education.md)
 
-
-- **Degree:** PhD in Neuroscience, Johns Hopkins University
+- **PhD in Neuroscience**
   - **Major:** Computational/Systems Neuroscience
   - **Year:** 2026
   - **Location:** Baltimore, US
 
-- **Degree:** MSc in Artificial Intelligence, Johns Hopkins University
+- **MSc in Artificial Intelligence**
   - **Year:** 2024
   - **Location:** Baltimore, US
 
-- **Degree:** MA in Psychology, Johns Hopkins University
+- **MA in Psychology**
   - **Year:** 2023
   - **Location:** Baltimore, US
 
-- **Degree:** BSc in Physics, Nanyang Technological University
+- **BSc in Physics**
   - **Year:** 2020
   - **Location:** Singapore
 
 ## [Projects](projects.md)
 
-### Project 1: [Confidence gates reinforcement]
+### Project 1: [Confidence Gates Reinforcement]
 
 - **Description:** Briefly describe the project and its significance.
 - **Technologies/Tools:** List the technologies or tools you used.
@@ -42,18 +41,17 @@ I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins Univer
 
 ## Skills
 
-- Programming Languages: Python, MATLAB, R
-- Frameworks: [List of frameworks you have experience with]
-- Tools: [List of development tools you are familiar with]
-- Data Analysis: [List any relevant data analysis tools or skills]
-- Other: [Any other skills relevant to your field]
+- **Programming Languages:** Python, MATLAB, R
+- **Frameworks:** TensorFlow, PyTorch
+- **Tools:** Docker
+- **Data Analysis:** [List any relevant data analysis tools or skills]
+- **Other:** [Any other skills relevant to your field]
 
 ## Contact
 
-- GitHub: [Mengyu-TU](https://github.com/mengyu-tu)
-- LinkedIn: [Mengyu Serene Tu](www.linkedin.com/in/mengyu-tu)
-- Google Scholar: [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en)
-- Email: [serenemy@outlook.com](mailto:serenemy@outlook.com)
+- **GitHub:** [Mengyu-TU](https://github.com/mengyu-tu)
+- **LinkedIn:** [Mengyu Serene Tu](https://www.linkedin.com/in/mengyu-tu)
+- **Google Scholar:** [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en)
+- **Email:** [serenemy@outlook.com](mailto:serenemy@outlook.com)
 
 Feel free to reach out to me for collaborations, questions, or just to say hello!
-
