@@ -2,7 +2,8 @@
 
 ## Background
 
-I am a PhD student in Computational/Systems Neuroscience at Johns Hopkins University.
+I am a PhD student in Systems/Computational Neuroscience and an MSc student in Artificial Intelligence at Johns Hopkins University. 
+I graduated with BSc Honors in Physics (Highest Distinction) from Nanyang Technological University, Singapore. 
 
 ---
 
