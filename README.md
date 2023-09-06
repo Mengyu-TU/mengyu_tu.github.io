@@ -2,10 +2,10 @@
 # Welcome to my website
 I am a PhD student in Systems/Computational Neuroscience and an MSc student in Artificial Intelligence at Johns Hopkins University. 
 I graduated with BSc Honors in Physics (Highest Distinction) from Nanyang Technological University, Singapore. 
-Currently, I'm diving deep into the fields of neuroscience and machine learning, exploring the exciting intersections between them.
+Currently, I'm diving deep into neuroscience and machine learning, exploring the exciting intersections between them.
 I'm open to collaborating on data science and machine learning projects that drive innovation and solve real-world challenges.
 
-Side interests: Kung Fu, history and philosophy.
+Side interests: Kung Fu, history and art.
 
 ## [Serene's Website](https://mengyu-tu.github.io/mengyu_tu.github.io/)
 
