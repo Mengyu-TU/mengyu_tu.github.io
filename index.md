@@ -16,15 +16,15 @@ I am a PhD student in Systems/Computational Neuroscience and an MSc student in A
 
 ## [Projects](projects.md)
 
-### Example Project 1: [Confidence Gates Reinforcement on Subsequent Decisions](project-link-1)
+### Example Project 1: Confidence Gates Reinforcement on Subsequent Decisions
 
-- **Repository:** [Link to the GitHub repository](repository-link-1)
-- **Demo/Website:** [Link to project demo or website](demo-link-1)
+- **Repository:** 
+- **Demo/Website:** 
 
-### Example Project 2: [Project Title](project-link-2)
+### Example Project 2: Project Title
 
-- **Repository:** [Link to the GitHub repository](repository-link-2)
-- **Demo/Website:** [Link to project demo or website](demo-link-2)
+- **Repository:** 
+- **Demo/Website:** 
 
 ## Skills
 
@@ -35,15 +35,9 @@ I am a PhD student in Systems/Computational Neuroscience and an MSc student in A
 
 ## Contact
 
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 1;">
-        - **GitHub:** [Mengyu-TU](https://github.com/mengyu-tu)
-        - **LinkedIn:** [Mengyu Serene Tu](https://www.linkedin.com/in/mengyu-tu)
-        - **Google Scholar:** [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en)
-    </div>
-    <div style="flex: 1;">
-        - **Email:** [serenemy@outlook.com](mailto:serenemy@outlook.com)
-    </div>
-</div>
+- **GitHub:** [Mengyu-TU](https://github.com/mengyu-tu)
+- **LinkedIn:** [Mengyu Serene Tu](https://www.linkedin.com/in/mengyu-tu)
+- **Google Scholar:** [Mengyu Serene Tu](https://scholar.google.com/citations?user=AuGb6q0AAAAJ&hl=en)
+- **Email:** [serenemy@outlook.com](mailto:serenemy@outlook.com)
 
 Feel free to reach out to me for collaborations, questions, or just to say hello!
