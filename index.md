@@ -16,12 +16,12 @@ I am a PhD student in Systems/Computational Neuroscience and an MSc student in A
 
 ## [Projects](projects.md)
 
-### Example Project 1: Confidence Gates Reinforcement on Subsequent Decisions
+### Example Project 1: Confidence Gates Reinforcement on Subsequent Decision Strategies
 
 - **Repository:** 
 - **Demo/Website:** 
 
-### Example Project 2: Project Title
+### Example Project 2: A movie recommender system with real-time feedback
 
 - **Repository:** 
 - **Demo/Website:** 
