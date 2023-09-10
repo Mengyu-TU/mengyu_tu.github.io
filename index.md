@@ -21,7 +21,7 @@ I am a PhD student in Systems/Computational Neuroscience and an MSc student in A
 - **Repository:** 
 - **Demo/Website:** 
 
-### Example Project 2: A movie recommender system with real-time feedback
+### Example Project 2: A Movie Recommender System with Real-Time Feedback
 
 - **Repository:** 
 - **Demo/Website:** 
