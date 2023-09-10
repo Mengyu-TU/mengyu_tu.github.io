@@ -2,7 +2,7 @@
 
 # Machine Learning Projects 
 
-### Project 1: [Project Title]
+### Project 1: A Movie Recommender System with Real-Time Feedback 
 
 - **Description:** Briefly describe the project and its significance.
 - **Technologies/Tools:** List the technologies or tools you used.
@@ -19,7 +19,7 @@ Provide a concise summary of the project, its goals, and its impact. Mention the
 - **Demo/Website:**
 
 # Research Projects
-### Project 1: [Project Title]
+### Project 1: Confidence Gates Reinforcement on Subsequent Decisions
 
 - **Description:** Briefly describe the project and its significance.
 - **Technologies/Tools:** List the technologies or tools you used.
