@@ -1,6 +1,6 @@
 # Mengyu Serene Tu's projects
 
-# Machine Learning Projects 
+## Machine Learning Projects 
 
 ### Project 1: A Movie Recommender System with Real-Time Feedback 
 
@@ -18,7 +18,7 @@ Provide a concise summary of the project, its goals, and its impact. Mention the
 - **Repository:** [Link to the GitHub repository]
 - **Demo/Website:**
 
-# Research Projects
+## Research Projects
 ### Project 1: Confidence Gates Reinforcement on Subsequent Decisions
 
 - **Description:** Briefly describe the project and its significance.
