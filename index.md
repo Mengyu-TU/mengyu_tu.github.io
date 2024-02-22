@@ -21,10 +21,9 @@ I am a PhD student in Systems/Computational Neuroscience and an MSc student in A
 - **Repository:** 
 - **Demo/Website:** 
 
-### Example Project 2: A Movie Recommender System with Real-Time Feedback
+### Example Project 2: A Movie Recommender System using Matrix Factorization
 
-- **Repository:** 
-- **Demo/Website:** 
+- **Repository:** [Link to the GitHub repository](https://github.com/Mengyu-TU/projects_demo/tree/main/Movie_recommender)
 
 ## Skills
 
