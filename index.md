@@ -46,6 +46,3 @@ Experienced data scientist skilled in applying cutting-edge machine learning tec
 - **Machine Learning and Data Handling:** PyTorch, TensorFlow, Scikit-Learn, Pandas, SQL
 
 Feel free to reach out to me for collaborations, questions, or just to say hello!
-```
-
-This markdown format preserves the structure and content of your CV while making it easy to render on various platforms that support markdown.
