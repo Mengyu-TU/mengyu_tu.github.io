@@ -1,8 +1,7 @@
 # Mengyu Serene Tu
 
 ## Contact Information
-- **Address:** 3501 St Paul St, Baltimore, MD 21218
-- **Email:** serenemy@outlook.com
+- **Email:** serenemy@outlook.com 
 
 ## Background
 Experienced data scientist skilled in applying cutting-edge machine learning techniques to extract insights from complex datasets. Demonstrated effectively communicating findings to non-technical audiences.
