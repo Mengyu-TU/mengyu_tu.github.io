@@ -7,7 +7,7 @@
 ## Background
 Experienced data scientist skilled in applying cutting-edge machine learning techniques to extract insights from complex datasets. Demonstrated effectively communicating findings to non-technical audiences.
 
-## Education
+## Education 
 
 - **PhD in Data Science in Neuroscience**, Johns Hopkins University, Baltimore, MD (Aug 2021 – May 2026)
 
