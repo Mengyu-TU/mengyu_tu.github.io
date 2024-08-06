@@ -29,7 +29,7 @@ Experienced data scientist skilled in applying cutting-edge machine learning tec
 - Implemented matrix factorization with gravity regularization using TensorFlow and reduced test loss by 35% compared to the unregularized model
 - Deployed the recommendation system efficiently via both a containerized Flask API using Docker and a web-based Flask application
 
-### Large-Scale Behavioral Data Analysis and Reinforcement Learning Model for Decision-Making[repo](https://github.com/Mengyu-TU/projects_demo/tree/main/POMDP_RL_decision_making)
+### Large-Scale Behavioral Data Analysis and Reinforcement Learning Model for Decision-Making [repo](https://github.com/Mengyu-TU/projects_demo/tree/main/POMDP_RL_decision_making)
 - Preprocessed 100,000+ behavioral trials using custom cleaning scripts for missing data and outlier removal, yielding 48,063 high-quality datapoints for analysis
 - Utilized advanced statistical methods (regression, ANCOVA, mixed-effect models) and ggplot in R to reveal confidence and decision outcome's impacts on decision bias and reaction time
 - Demonstrated the underlying mechanism of the decision-making process by developing a novel partially observable Markov decision process (POMDP) reinforcement learning model in Python
