@@ -25,20 +25,17 @@ Experienced data scientist skilled in applying cutting-edge machine learning tec
 - Demonstrated axial plane images were most suitable for tumor detection in both models, with YOLOv8 outperforming Faster R-CNN
 
 ### End-to-End Movie Recommendation System with Collaborative Filtering [repo](https://github.com/Mengyu-TU/projects_demo/tree/main/Movie_recommender)
-- **Repository:** [repo]
 - Conducted exploratory data analysis using pandas on a dataset of 100,000 movie ratings from 1,000 users across 1,700 movies and visualized results with matplotlib
 - Implemented matrix factorization with gravity regularization using TensorFlow and reduced test loss by 35% compared to the unregularized model
 - Deployed the recommendation system efficiently via both a containerized Flask API using Docker and a web-based Flask application
 
 ### Large-Scale Behavioral Data Analysis and Reinforcement Learning Model for Decision-Making[repo](https://github.com/Mengyu-TU/projects_demo/tree/main/POMDP_RL_decision_making)
-- **Repository:** [repo]
 - Preprocessed 100,000+ behavioral trials using custom cleaning scripts for missing data and outlier removal, yielding 48,063 high-quality datapoints for analysis
 - Utilized advanced statistical methods (regression, ANCOVA, mixed-effect models) and ggplot in R to reveal confidence and decision outcome's impacts on decision bias and reaction time
 - Demonstrated the underlying mechanism of the decision-making process by developing a novel partially observable Markov decision process (POMDP) reinforcement learning model in Python
 - Presented as the first author at Neuroscience Annual Meeting with over 30,000 participants
 
 ### Machine Learning Pipeline for Brain-Imaging Time Series Data [repo](https://github.com/Mengyu-TU/Position-Decoding-Methods-Based-on-Fluorescence-Calcium-Imaging)
-- **Repository:** [repo]
 - Developed an efficient feature engineering algorithm for rapid feature extraction from brain-imaging time series and achieved 50x faster computing speed than existing methods
 - Implemented customized linear regression and maximum likelihood decoding models and attained over 95% cross-validated accuracy in decoding animal positions from brain time series
 - Published as first-author on Neural Computation
