@@ -41,7 +41,7 @@ Experienced data scientist skilled in applying cutting-edge machine learning tec
 
 ## Skills
 
-- **Programming:** Python, R, MATLAB, C++, Git
+- **Programming:** Python, R, MATLAB, C++, Git, Docker
 - **Machine Learning and Data Handling:** PyTorch, TensorFlow, Scikit-Learn, Pandas, SQL
 
 Feel free to reach out to me for collaborations, questions, or just to say hello!
